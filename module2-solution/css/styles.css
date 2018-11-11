@@ -51,6 +51,13 @@ section{
 	margin-left:5px;
 }
 
+.p3{
+        padding: 20px;
+        text-align:left;
+        float: left;
+        margin-left:20px;
+}
+
 /*Desktop Devices Only which has the width of the browser window 992px and above*/
 @media (min-width: 992px){
 		.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12
